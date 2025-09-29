@@ -37,7 +37,6 @@ Gain basic insights from the sales data
 Understand trends, totals, and patterns using Python and Pandas
 
 ## How to Run
-1.Clone this repository:
+1. Clone this repository:
+```bash
 git clone https://github.com/Pravalikapole/your-repo.git
-2. Open the Jupyter Notebook in Jupyter or Colab.
-3. Execute the cells step by step to see the analysis and charts.
