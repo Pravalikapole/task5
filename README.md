@@ -38,6 +38,6 @@ Understand trends, totals, and patterns using Python and Pandas
 
 ## How to Run
 1.Clone this repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Pravalikapole/your-repo.git
 2. Open the Jupyter Notebook in Jupyter or Colab.
 3. Execute the cells step by step to see the analysis and charts.
